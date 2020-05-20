@@ -505,7 +505,7 @@
 			<key>AuthRestart</key>
 			<false/>
 			<key>BootProtect</key>
-			<string>None</string>
+			<string>Bootstrap</string>
 			<key>ExposeSensitiveData</key>
 			<integer>6</integer>
 			<key>HaltLevel</key>
@@ -595,17 +595,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>DELETED</string>
+			<string>C020445014NLNV91M</string>
 			<key>ROM</key>
-			<data>DELETED</data>
+			<data>qKFZFi1k</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>DELETED</string>
+			<string>C02DM0R5JV3Q</string>
 			<key>SystemUUID</key>
-			<string>DELETED</string>
+			<string>A373A62B-6FB4-40E2-B9EC-ED918BBF3AB6</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -753,16 +753,6 @@
 		</dict>
 		<key>ReservedMemory</key>
 		<array>
-			<dict>
-				<key>Address</key>
-				<integer>268435456</integer>
-				<key>Comment</key>
-				<string>HD3000: IGPU memory corruption errata</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Size</key>
-				<integer>268435456</integer>
-			</dict>
 		</array>
 	</dict>
 </dict>

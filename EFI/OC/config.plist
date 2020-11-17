@@ -579,19 +579,19 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>MLB</key>
-			<string>C020445014NLNV91M</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>qKFZFi1k</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DM0R5JV3Q</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>A373A62B-6FB4-40E2-B9EC-ED918BBF3AB6</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
